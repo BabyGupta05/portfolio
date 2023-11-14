@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.383054bb.css",
-    "main.js": "/portfolio/static/js/main.0316ff4e.js",
+    "main.js": "/portfolio/static/js/main.3275dcb5.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Baby_Gupta_Resume.pdf": "/portfolio/static/media/Baby_Gupta_Resume.0ecb24e6d55e03cb5af0.pdf",
     "static/media/profile.png": "/portfolio/static/media/profile.0493e447bdaf7264cde3.png",
     "index.html": "/portfolio/index.html",
     "main.383054bb.css.map": "/portfolio/static/css/main.383054bb.css.map",
-    "main.0316ff4e.js.map": "/portfolio/static/js/main.0316ff4e.js.map",
+    "main.3275dcb5.js.map": "/portfolio/static/js/main.3275dcb5.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.383054bb.css",
-    "static/js/main.0316ff4e.js"
+    "static/js/main.3275dcb5.js"
   ]
 }
